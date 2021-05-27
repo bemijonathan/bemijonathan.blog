@@ -30,3 +30,22 @@ Qvault - Coding Courses.
 - I also got a udemy Course by stephen Grider [GO the complete developers guide](https://www.udemy.com/course/go-the-complete-developers-guide/) - would strongly recommend it to anyone.
 
 I also decided to start this blog 🎉🎉🎉.
+
+
+#### Day Two (26th-may-2021)
+
+##### more about Golang
+
+- Go is a compiled language => that is a language that is compiled straight into machine code 
+
+- types of languages => Compiled vs Interpreted
+
+- Go is a strictly typed language
+
+- computers need machine code. In order to supply the CPU with an instruction set that it's hardware is familiar with, we need to convert our high-level (Go) code into machine language. The Go compiler's job is to take Go code and produce a program (machine code).
+
+- Go programs are fairly lightweight. Each program includes a small amount of "extra" code that's included in the executable binary. This extra code is called the Go Runtime. One of the purposes of the Go runtime
+is to cleanup unused memory.
+
+- variables & types in Golang
+
