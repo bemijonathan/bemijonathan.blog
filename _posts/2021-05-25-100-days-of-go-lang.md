@@ -49,3 +49,10 @@ is to cleanup unused memory.
 
 - variables & types in Golang
 
+#### Day 3 - 8 (27th - 31st may)
+
+- learnt about control flows in golang 
+- loops 
+- structs
+- got more confortable with searching through the golang docs
+- built a simple golang quiz application
