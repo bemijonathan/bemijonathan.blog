@@ -56,3 +56,12 @@ is to cleanup unused memory.
 - structs
 - got more confortable with searching through the golang docs
 - built a simple golang quiz application
+
+
+#### Day 9 - 15 (1st June to 6th June) 
+ Been really unsteady about my learning because i had to get up to speed with cloud engineering, registered for two courses on coursera where i will be learning about migrating to cloud native environment and handling containers in AWS environment. Nothing less i learnt
+
+ - Interfaces in golang
+ - More on structs 
+ - Pointers and memory allocation in golang
+ - Started building an uptime monitor
