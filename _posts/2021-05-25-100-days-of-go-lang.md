@@ -61,7 +61,7 @@ is to cleanup unused memory.
 #### Day 9 - 15 (1st June to 6th June) 
  Been really unsteady about my learning because i had to get up to speed with cloud engineering, registered for two courses on coursera where i will be learning about migrating to cloud native environment and handling containers in AWS environment. Nothing less i learnt
 
- - Interfaces in golang
- - More on structs 
- - Pointers and memory allocation in golang
- - Started building an uptime monitor
+ - Interfaces in golang => its a really confusing topic.
+ - More on structs types and Scopes. 
+ - Pointers and memory allocation in golang.
+ - Started building an uptime monitor with my knowledge of structs and interfaces.
